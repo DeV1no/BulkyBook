@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Utility/BulkyBook.Utility.csproj",
+      "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj",
       "projectName": "BulkyBook.Utility",
-      "projectPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Utility/BulkyBook.Utility.csproj",
+      "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj",
       "packagesPath": "/home/dev1/.nuget/packages/",
-      "outputPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Utility/obj/",
+      "outputPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dev1/.nuget/NuGet/NuGet.Config"

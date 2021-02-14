@@ -25,3 +25,17 @@ C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyB
 /home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CopyComplete
 /home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
 /home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.deps.json
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Models.dll
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Utility.dll
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Models.pdb
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csprojAssemblyReference.cache
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.AssemblyInfoInputs.cache
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.AssemblyInfo.cs
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CopyComplete
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb

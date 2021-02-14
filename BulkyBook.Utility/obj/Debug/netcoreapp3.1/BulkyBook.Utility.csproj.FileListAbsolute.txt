@@ -15,3 +15,12 @@ C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyB
 /home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.csproj.CoreCompileInputs.cache
 /home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.dll
 /home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.deps.json
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.dll
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/bin/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.csprojAssemblyReference.cache
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.AssemblyInfoInputs.cache
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.AssemblyInfo.cs
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.csproj.CoreCompileInputs.cache
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.dll
+/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.pdb

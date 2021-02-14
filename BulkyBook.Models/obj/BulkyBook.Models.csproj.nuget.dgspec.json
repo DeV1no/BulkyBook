@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/BulkyBook.Models.csproj": {}
+    "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj": {}
   },
   "projects": {
-    "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/BulkyBook.Models.csproj": {
+    "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/BulkyBook.Models.csproj",
+        "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/BulkyBook.Models.csproj",
+        "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj",
         "packagesPath": "/home/dev1/.nuget/packages/",
-        "outputPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/obj/",
+        "outputPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dev1/.nuget/NuGet/NuGet.Config"

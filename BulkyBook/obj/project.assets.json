@@ -8753,11 +8753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook/BulkyBook.csproj",
+      "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook/BulkyBook.csproj",
       "projectName": "BulkyBook",
-      "projectPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook/BulkyBook.csproj",
+      "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook/BulkyBook.csproj",
       "packagesPath": "/home/dev1/.nuget/packages/",
-      "outputPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook/obj/",
+      "outputPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dev1/.nuget/NuGet/NuGet.Config"
@@ -8772,14 +8772,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj": {
-              "projectPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj"
+            "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj": {
+              "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj"
             },
-            "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/BulkyBook.Models.csproj": {
-              "projectPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/BulkyBook.Models.csproj"
+            "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj": {
+              "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj"
             },
-            "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Utility/BulkyBook.Utility.csproj": {
-              "projectPath": "/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Utility/BulkyBook.Utility.csproj"
+            "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj": {
+              "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj"
             }
           }
         }
