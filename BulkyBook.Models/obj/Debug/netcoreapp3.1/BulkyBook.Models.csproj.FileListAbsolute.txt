@@ -1,0 +1,17 @@
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Models/bin/Debug/netcoreapp3.1/BulkyBook.Models.deps.json
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Models/bin/Debug/netcoreapp3.1/BulkyBook.Models.dll
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Models/bin/Debug/netcoreapp3.1/BulkyBook.Models.pdb
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.csprojAssemblyReference.cache
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.AssemblyInfoInputs.cache
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.AssemblyInfo.cs
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.dll
+C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.pdb
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/bin/Debug/netcoreapp3.1/BulkyBook.Models.deps.json
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/bin/Debug/netcoreapp3.1/BulkyBook.Models.dll
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/bin/Debug/netcoreapp3.1/BulkyBook.Models.pdb
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.csprojAssemblyReference.cache
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.AssemblyInfoInputs.cache
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.AssemblyInfo.cs
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.csproj.CoreCompileInputs.cache
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.dll
+/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.pdb
