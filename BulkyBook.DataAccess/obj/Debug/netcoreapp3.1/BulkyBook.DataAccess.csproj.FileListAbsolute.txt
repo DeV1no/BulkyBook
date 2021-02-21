@@ -1,41 +1,26 @@
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.deps.json
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csprojAssemblyReference.cache
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.AssemblyInfoInputs.cache
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.AssemblyInfo.cs
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Models.dll
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Utility.dll
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Models.pdb
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
-C:/Users/bhrug/Desktop/Udemy Course Code/Lecture Code/Lecture - BulkyBook/BulkyBook/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CopyComplete
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.deps.json
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Models.dll
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Utility.dll
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Models.pdb
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csprojAssemblyReference.cache
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.AssemblyInfoInputs.cache
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.AssemblyInfo.cs
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CopyComplete
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
-/home/dev1/Desktop/dotNet/BulkyBooks/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.deps.json
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Models.dll
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Utility.dll
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Models.pdb
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/bin/Debug/netcoreapp3.1/BulkyBook.Utility.pdb
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csprojAssemblyReference.cache
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.AssemblyInfoInputs.cache
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.AssemblyInfo.cs
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csproj.CopyComplete
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.dll
-/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Models.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\bin\Debug\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook section 21\BulkyBook\BulkyBook.DataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb

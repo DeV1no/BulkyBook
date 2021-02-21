@@ -14,6 +14,10 @@ using Microsoft.Extensions.Hosting;
 using BulkyBook.DataAccess.Data;
 using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.DataAccess.Repository;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using BulkyBook.Utility;
+using Stripe;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
 
 namespace BulkyBook
 {
@@ -29,19 +33,45 @@ namespace BulkyBook
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            #region Db Context
-
             services.AddDbContext<ApplicationDbContext>(options =>
-            {
-                options.UseSqlServer("Server=127.0.0.1;Database=BulkyBook;User Id=SA;Password=Da09376963809;");
-            });
-
-            #endregion
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                options.UseSqlServer(
+                    Configuration.GetConnectionString("DefaultConnection")));
+            services.AddIdentity<IdentityUser,IdentityRole>().AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddSingleton<IEmailSender, EmailSender>();
+            services.AddSingleton<ITempDataProvider, CookieTempDataProvider>();
+            
+            services.Configure<EmailOptions>(Configuration);
+            services.Configure<StripeSettings>(Configuration.GetSection("Stripe"));
+            services.Configure<BrainTreeSettings>(Configuration.GetSection("BrainTree"));
+            services.Configure<TwilioSettings>(Configuration.GetSection("Twilio"));
+            services.AddSingleton<IBrainTreeGate, BrainTreeGate>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
             services.AddRazorPages();
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath = $"/Identity/Account/Login";
+                options.LogoutPath = $"/Identity/Account/Logout";
+                options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
+            });
+            services.AddAuthentication().AddFacebook(options =>
+            {
+                options.AppId = "479144716347128";
+                options.AppSecret = "8888cefba55e9cfa06a2b28f0495e533";
+            });
+            services.AddAuthentication().AddGoogle(options =>
+            {
+                options.ClientId = "751413081977-ct8rrlcf8cgt8f42b5evots13mg458lt.apps.googleusercontent.com";
+                options.ClientSecret = "LPRLug47n8OQsYAirUVGofLw";
+
+            });
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -62,10 +92,10 @@ namespace BulkyBook
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            StripeConfiguration.ApiKey = Configuration.GetSection("Stripe")["SecretKey"];
+            app.UseSession();
             app.UseAuthentication();
             app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(

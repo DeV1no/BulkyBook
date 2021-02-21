@@ -1,0 +1,8 @@
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.deps.json
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\bin\Release\netcoreapp3.1\BulkyBook.Utility.pdb
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.csprojAssemblyReference.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.dll
+C:\Users\bhrug\Desktop\Udemy Course Code\Lecture Code\Lecture - BulkyBook\BulkyBook\BulkyBook.Utility\obj\Release\netcoreapp3.1\BulkyBook.Utility.pdb

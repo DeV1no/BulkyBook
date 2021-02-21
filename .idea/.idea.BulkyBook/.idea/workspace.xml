@@ -4,7 +4,24 @@
     <projectFile>BulkyBook/BulkyBook.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5f4b8ad-496e-4cb7-8c5f-5380cde17021" name="Default Changelist" comment="" />
+    <list default="true" id="a5f4b8ad-496e-4cb7-8c5f-5380cde17021" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BulkyBook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BulkyBook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook.DataAccess/obj/BulkyBook.DataAccess.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook.DataAccess/obj/Debug/netcoreapp3.1/BulkyBook.DataAccess.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook.Models/obj/BulkyBook.Models.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook.Models/obj/Debug/netcoreapp3.1/BulkyBook.Models.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook.Utility/obj/BulkyBook.Utility.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook.Utility/obj/Debug/netcoreapp3.1/BulkyBook.Utility.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/bin/Debug/netcoreapp3.1/BulkyBook.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook/bin/Debug/netcoreapp3.1/BulkyBook.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/bin/Debug/netcoreapp3.1/BulkyBook.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook/bin/Debug/netcoreapp3.1/BulkyBook.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/obj/BulkyBook.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/BulkyBook.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/BulkyBook.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/BulkyBook.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/BulkyBook.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/BulkyBook.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/BulkyBook.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BulkyBook/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/BulkyBook/wwwroot/css/site.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +39,8 @@
       <option value="$PROJECT_DIR$/BulkyBook/appsettings.json" />
       <option value="$PROJECT_DIR$/../FastNews/Startup.cs" />
       <option value="$PROJECT_DIR$/BulkyBook/Startup.cs" />
+      <option value="$PROJECT_DIR$/BulkyBook/Areas/Admin/Controllers/CategoryController.cs" />
+      <option value="$PROJECT_DIR$/BulkyBook/Areas/Customer/Controllers/CategoryController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oRNCcsNTK3dw8LEUJDHRxrAiJD" />
@@ -41,7 +60,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BulkyBook">
@@ -85,14 +104,26 @@
       <option name="presentableId" value="Default" />
       <updated>1613245343233</updated>
       <workItem from="1613245364895" duration="2383000" />
+      <workItem from="1613294580802" duration="2584000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_BulkyBook.1485522127.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BulkyBook" t="IncludeRecursive">
+        <e p="Areas" t="Include">
+          <e p="Admin" t="Include">
+            <e p="Controllers" t="Include" />
+            <e p="Views" t="Include">
+              <e p="_ViewImports.cshtml" t="Include" />
+              <e p="_ViewStart.cshtml" t="Include" />
+            </e>
+          </e>
+          <e p="Customer" t="Include">
+            <e p="Controllers" t="Include">
+              <e p="HomeController.cs" t="Include" />
+            </e>
+            <e p="Views" t="Include">
+              <e p="Home" t="Include">
+                <e p="Index.cshtml" t="Include" />
+                <e p="Privacy.cshtml" t="Include" />
+              </e>
+              <e p="_ViewImports.cshtml" t="Include" />
+              <e p="_ViewStart.cshtml" t="Include" />
+            </e>
+          </e>
+          <e p="Identity" t="Include">
+            <e p="Pages" t="Include">
+              <e p="_ViewStart.cshtml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="BulkyBook.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="Shared" t="Include">
+            <e p="Error.cshtml" t="Include" />
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_LoginPartial.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          </e>
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BulkyBook.AssemblyInfo.cs" t="Include" />
+              <e p="BulkyBook.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="LICENSE" t="Include" />
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="jquery" t="Include">
+              <e p="LICENSE.txt" t="Include" />
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="LICENSE.md" t="Include" />
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="LICENSE.txt" t="Include" />
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BulkyBook.DataAccess" t="IncludeRecursive">
+        <e p="BulkyBook.DataAccess.csproj" t="IncludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="ApplicationDbContext.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20191230003509_AddDefaultIdentityMigration.Designer.cs" t="Include" />
+          <e p="20191230003509_AddDefaultIdentityMigration.cs" t="Include" />
+          <e p="20191230005102_AddCategoryToDb.Designer.cs" t="Include" />
+          <e p="20191230005102_AddCategoryToDb.cs" t="Include" />
+          <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="CategoryRepository.cs" t="Include" />
+          <e p="IRepository" t="Include">
+            <e p="ICategoryRepository.cs" t="Include" />
+            <e p="IRepository.cs" t="Include" />
+            <e p="ISP_Call.cs" t="Include" />
+            <e p="IUnitOfWork.cs" t="Include" />
+          </e>
+          <e p="Repository.cs" t="Include" />
+          <e p="SP_Call.cs" t="Include" />
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BulkyBook.DataAccess.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BulkyBook.Models" t="IncludeRecursive">
+        <e p="BulkyBook.Models.csproj" t="IncludeRecursive" />
+        <e p="Category.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="ErrorViewModel.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BulkyBook.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BulkyBook.Utility" t="IncludeRecursive">
+        <e p="BulkyBook.Utility.csproj" t="IncludeRecursive" />
+        <e p="SD.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BulkyBook.Utility.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="BulkyBook.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

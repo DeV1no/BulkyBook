@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAAOJO2NbdckudHYrrSvFatAAAAAACAAAAAAAQZgAAAAEAACAAAADlypDD8S1h6ojMNYY/9SQJYcCwxf/7n+V/+pqSo2HokgAAAAAOgAAAAAIAACAAAACYwTwP7nmlmO1FDF1dDe3RCqorQfOcESYnB9fqV9GhdYAAAAB8ybZ0Jxl/hYPgcoeMLJSRqSjl4ZieSDLCdx68GJBEOgtjJmEeE9ebYMPt48SJRdFb3ke08bKVlwn59qbG5fcb85PscqEeOlvxsukWyTJ89uS7/I3o3+FgxEsGXRsw6bAGvotNuoKLDDqyMxzywEWTLLFojp3bLcQSmQLuIBA0S0AAAADgOpmAvbO4vMeDFH7Dr06k9chUO9ArWJWTqkRITexfrRpYRbMwJ0HBfaZu87By/+ffknuZpo7GnEWup31JQtIO</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:bulkybookserver.database.windows.net,1433%3bInitial Catalog=BulkyBookDev_db%3bUser Id=adminuser%40bulkybookserver%3bPassword=Admin123%2a</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,36 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook/BulkyBook.csproj": {}
+    "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook\\BulkyBook.csproj": {}
   },
   "projects": {
-    "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj": {
+    "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
         "projectName": "BulkyBook.DataAccess",
-        "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj",
-        "packagesPath": "/home/dev1/.nuget/packages/",
-        "outputPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/obj/",
+        "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/dev1/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj": {
-                "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj"
+              "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
               },
-              "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj": {
-                "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj"
+              "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+                "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
               }
             }
           }
@@ -43,11 +47,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Dapper": {
               "target": "Package",
               "version": "[2.0.30, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -73,35 +80,42 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj": {
+    "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj",
+        "projectUniqueName": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj",
-        "packagesPath": "/home/dev1/.nuget/packages/",
-        "outputPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/obj/",
+        "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/dev1/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -113,7 +127,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -129,31 +152,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj": {
+    "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
         "projectName": "BulkyBook.Utility",
-        "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj",
-        "packagesPath": "/home/dev1/.nuget/packages/",
-        "outputPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/obj/",
+        "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+        "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/dev1/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -165,7 +192,20 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Braintree": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.12.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -177,44 +217,51 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook/BulkyBook.csproj": {
+    "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook\\BulkyBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook/BulkyBook.csproj",
+        "projectUniqueName": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook\\BulkyBook.csproj",
         "projectName": "BulkyBook",
-        "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook/BulkyBook.csproj",
-        "packagesPath": "/home/dev1/.nuget/packages/",
-        "outputPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook/obj/",
+        "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook\\BulkyBook.csproj",
+        "packagesPath": "C:\\Users\\bhrug\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/dev1/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bhrug\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj": {
-                "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.DataAccess/BulkyBook.DataAccess.csproj"
+              "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
               },
-              "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj": {
-                "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Models/BulkyBook.Models.csproj"
+              "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
               },
-              "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj": {
-                "projectPath": "/home/dev1/Desktop/dotNet/BulkyBookssss/BulkyBook.Utility/BulkyBook.Utility.csproj"
+              "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+                "projectPath": "C:\\Users\\bhrug\\Desktop\\Udemy Course Code\\Lecture Code\\Lecture - BulkyBook\\BulkyBook section 21\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
               }
             }
           }
@@ -227,8 +274,15 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.0, )"
@@ -260,6 +314,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.0-preview1-19509-03, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[34.11.0, )"
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[5.37.1, )"
             }
           },
           "imports": [
@@ -280,7 +342,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
